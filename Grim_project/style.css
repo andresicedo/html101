@@ -1,0 +1,39 @@
+h1 {
+    text-align: center;
+    color: black;
+    font-size: 100px;
+    outline-style: groove;
+    outline-width: 1cm;
+    outline-color: cadetblue;
+    margin-left: 3cm;
+    margin-right: 3cm;
+}
+
+h2 {
+    text-align: center;
+}
+
+.subtitle {
+    text-align: center;
+    font-size: 25px;
+}
+
+.image {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.Chapter {
+    text-align: center;
+    margin-left: 4cm;
+    margin-right: 4cm;
+    margin-bottom: 1cm;
+    outline-style: groove;
+    outline-width: .05;
+    outline-color: cadetblue;
+}
+
+.end {
+    font-size: 65px;
+}
