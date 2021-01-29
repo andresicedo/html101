@@ -39,11 +39,15 @@ p {
   text-shadow: -2px 1px 0 red;
   color: white;
   background-image: url(/image2.png);
+  background-position: inherit;
   margin-left: 30%;
   margin-right: 30%;
   padding-top: 10%;
-  padding-bottom: 8%;
+  padding-bottom: 7%;
   text-align: center;
+  border-style: ridge;
+  border-color: yellow;
+  border-width: .09cm;
 }
 
 .table {
@@ -62,3 +66,10 @@ p {
   text-shadow: -1px 1px 0 yellow;
 }
 
+.rowheader {
+  text-align: left;
+}
+
+.name {
+  text-align: center;
+}
