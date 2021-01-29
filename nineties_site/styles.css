@@ -1,0 +1,64 @@
+body {
+  background-image: url(image1.jpg);
+
+}
+
+h1 {
+    color: yellow;
+    font-size: 70px;
+    background-color: gray;
+    text-align: center;
+    margin-bottom: 0%;
+    text-shadow: -5px 1px 0 black;
+}
+
+p {
+    color: red;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 0%;
+}
+
+.subtitle {
+  text-shadow: -2px 1px 0 yellow;
+}
+
+.left {
+  margin-top: -12%;
+  margin-left: -80%;
+  margin-bottom: -1%;
+  background-color: gray;
+  text-align: right;
+  margin-right: 80%;
+  padding-right: 5%;
+  padding-bottom: 1%;
+}
+
+.quote {
+  font-size: 35px;
+  text-shadow: -2px 1px 0 red;
+  color: white;
+  background-image: url(/image2.png);
+  margin-left: 30%;
+  margin-right: 30%;
+  padding-top: 10%;
+  padding-bottom: 8%;
+  text-align: center;
+}
+
+.table {
+  font-size: 40px;
+  color: blue;
+  background-color: white;
+  margin-left: 22%;
+  border: red;
+  border-width: .3cm;
+  border-style: solid;
+}
+
+.back {
+  float: left;
+  margin-top: -3%;
+  text-shadow: -1px 1px 0 yellow;
+}
+
